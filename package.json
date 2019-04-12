@@ -1,0 +1,13 @@
+{
+  "name": "widget-electron-example",
+  "version": "1.0.0",
+  "description": "Horn's Widget Electron example",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "8eo Inc.",
+  "devDependencies": {
+    "electron": "^4.1.3"
+  }
+}
